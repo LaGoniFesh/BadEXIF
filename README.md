@@ -9,5 +9,6 @@ in bash to view the new and injected picture.
 #2025 
 Created by LaGoniFesh
 
-Install Requirments.txt
+Install Requirments.txt 
+pip install -r requirements.txt
 #BadPython
